@@ -1,5 +1,6 @@
 <?php
 
+    // DELETE THIS LINE ONLY
     // Benchmark to test EXECUTION SPEED in PHP with ARRAYS by following methods
     // Method 1 : Class Withour self functions
     // Method 2 : Class With self functions
